@@ -1,0 +1,28 @@
+[33mcommit 75bfd9c4efcf08b5a299b87cbc0241852fa29bbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: InrouteInnovacion <innovacion@inroute.com.mx>
+Date:   Thu Sep 29 17:43:10 2022 -0600
+
+    RAMA3
+
+ prueba_git.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit fde2e27096c19ccb86a29449f1cf440a4f7092b6[m
+Author: InrouteInnovacion <innovacion@inroute.com.mx>
+Date:   Thu Sep 29 13:43:21 2022 -0600
+
+    Se agrega archivo ignore, ignorar y se modifica prueba_git
+
+ .gitignore.txt | 1 [32m+[m
+ ignorar.txt    | 1 [32m+[m
+ prueba_git.txt | 2 [32m++[m
+ 3 files changed, 4 insertions(+)
+
+[33mcommit bcc74c31ec909e73bb1830bd717b38cb58d4edee[m
+Author: InrouteInnovacion <innovacion@inroute.com.mx>
+Date:   Thu Sep 29 13:18:14 2022 -0600
+
+    git proyecto prueba
+
+ prueba_git.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
